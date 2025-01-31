@@ -6,6 +6,7 @@ license = "MIT"
 keywords = ["vr", "openvr", "steamvr"]
 categories = [ "hardware-support", "external-ffi-bindings" ]
 repository = "https://github.com/yshui/openvr-sys"
+build = "build.rs"
 
 version = "0.1.3"
 edition = "2021"
