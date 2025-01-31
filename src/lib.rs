@@ -52,6 +52,7 @@ autocxx::include_cpp! {
     generate!("vr::VROverlay")
     generate!("vr::VRCompositor")
     generate!("vr::VRInput")
+    generate!("vr::VRChaperoneSetup")
     safety!(unsafe)
 }
 
