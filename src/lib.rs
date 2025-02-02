@@ -55,6 +55,7 @@ autocxx::include_cpp! {
     generate!("vr::VRChaperoneSetup")
     generate!("vr::VRChaperone")
     generate!("vr::VRControllerState_t")
+    generate!("vr::VRControllerState001_t")
     safety!(unsafe)
 }
 
